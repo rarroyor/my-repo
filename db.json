@@ -10,27 +10,27 @@
   },
   "users": [
     {
-        "user_id": 1,
+        "id": 1,
         "name": "Arroyo Rene"
     },
     {
-        "user_id": 2,
+        "id": 2,
         "name": "Pedro Paramo"
     },
     {
-        "user_id": 3,
+        "id": 3,
         "name": "Jaime Sabines"
     },
     {
-        "user_id": 4,
+        "id": 4,
         "name": "Tobias Eathon"
     },
     {
-        "user_id": 5,
+        "id": 5,
         "name": "Jacinto Fernández"
     },
     {
-        "user_id": 6,
+        "id": 6,
         "name": "Jonh Dear"
     }
   ]
